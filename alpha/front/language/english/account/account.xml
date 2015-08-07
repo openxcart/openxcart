@@ -1,0 +1,21 @@
+<?php
+// Heading
+$lang['heading_title']      = 'My Account';
+
+// Text
+$lang['text_account']       = 'Account';
+$lang['text_my_account']    = 'My Account';
+$lang['text_my_orders']     = 'My Orders';
+$lang['text_my_newsletter'] = 'Newsletter';
+$lang['text_edit']          = 'Edit your account information';
+$lang['text_password']      = 'Change your password';
+$lang['text_address']       = 'Modify your address book entries';
+$lang['text_wishlist']      = 'Modify your wish list';
+$lang['text_order']         = 'View your order history';
+$lang['text_download']      = 'Downloads';
+$lang['text_reward']        = 'Your Reward Points';
+$lang['text_return']        = 'View your return requests';
+$lang['text_transaction']   = 'Your Transactions';
+$lang['text_newsletter']    = 'Subscribe / unsubscribe to newsletter';
+$lang['text_recurring']     = 'Recurring payments';
+$lang['text_transactions']  = 'Transactions';

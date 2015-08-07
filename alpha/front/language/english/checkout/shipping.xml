@@ -1,0 +1,20 @@
+<?php
+// Heading
+$lang['heading_title']        = 'Estimate Shipping &amp; Taxes';
+
+// Text
+$lang['text_success']         = 'Success: Your shipping estimate has been applied!';
+$lang['text_shipping']        = 'Enter your destination to get a shipping estimate.';
+$lang['text_shipping_method'] = 'Please select the preferred shipping method to use on this order.';
+
+// Entry
+$lang['entry_country']        = 'Country';
+$lang['entry_zone']           = 'Region / State';
+$lang['entry_postcode']       = 'Post Code';
+
+// Error
+$lang['error_postcode']       = 'Postcode must be between 2 and 10 characters!';
+$lang['error_country']        = 'Please select a country!';
+$lang['error_zone']           = 'Please select a region / state!';
+$lang['error_shipping']       = 'Warning: Shipping method required!';
+$lang['error_no_shipping']    = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';

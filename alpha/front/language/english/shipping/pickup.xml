@@ -1,0 +1,4 @@
+<?php
+// Text
+$lang['text_title']       = 'Pickup';
+$lang['text_description'] = 'Pickup From Store';

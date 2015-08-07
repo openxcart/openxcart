@@ -1,0 +1,115 @@
+<?php
+// Heading
+$lang['heading_title']                = 'UPS';
+
+// Text
+$lang['text_shipping']                = 'Shipping';
+$lang['text_success']                 = 'Success: You have modified UPS shipping!';
+$lang['text_edit']                    = 'Edit UPS Shipping';
+$lang['text_regular_daily_pickup']    = 'Regular Daily Pickup';
+$lang['text_daily_pickup']            = 'Daily Pickup';
+$lang['text_customer_counter']        = 'Customer Counter';
+$lang['text_one_time_pickup']         = 'One Time Pickup';
+$lang['text_on_call_air_pickup']      = 'On Call Air Pickup';
+$lang['text_letter_center']           = 'Letter Center';
+$lang['text_air_service_center']      = 'Air Service Center';
+$lang['text_suggested_retail_rates']  = 'Suggested Retail Rates (UPS Store)';
+$lang['text_package']                 = 'Package';
+$lang['text_ups_letter']              = 'UPS Letter';
+$lang['text_ups_tube']                = 'UPS Tube';
+$lang['text_ups_pak']                 = 'UPS Pak';
+$lang['text_ups_express_box']         = 'UPS Express Box';
+$lang['text_ups_25kg_box']            = 'UPS 25kg box';
+$lang['text_ups_10kg_box']            = 'UPS 10kg box';
+$lang['text_us']                      = 'US Origin';
+$lang['text_ca']                      = 'Canada Origin';
+$lang['text_eu']                      = 'European Union Origin';
+$lang['text_pr']                      = 'Puerto Rico Origin';
+$lang['text_mx']                      = 'Mexico Origin';
+$lang['text_other']                   = 'All Other Origins';
+$lang['text_test']                    = 'Test';
+$lang['text_production']              = 'Production';
+$lang['text_residential']             = 'Residential';
+$lang['text_commercial']              = 'Commercial';
+$lang['text_next_day_air']            = 'UPS Next Day Air';
+$lang['text_2nd_day_air']             = 'UPS Second Day Air';
+$lang['text_ground']                  = 'UPS Ground';
+$lang['text_3_day_select']            = 'UPS Three-Day Select';
+$lang['text_next_day_air_saver']      = 'UPS Next Day Air Saver';
+$lang['text_next_day_air_early_am']   = 'UPS Next Day Air Early A.M.';
+$lang['text_2nd_day_air_am']          = 'UPS Second Day Air A.M.';
+$lang['text_saver']                   = 'UPS Saver';
+$lang['text_worldwide_express']       = 'UPS Worldwide Express';
+$lang['text_worldwide_expedited']     = 'UPS Worldwide Expedited';
+$lang['text_standard']                = 'UPS Standard';
+$lang['text_worldwide_express_plus']  = 'UPS Worldwide Express Plus';
+$lang['text_express']                 = 'UPS Express';
+$lang['text_expedited']               = 'UPS Expedited';
+$lang['text_express_early_am']        = 'UPS Express Early A.M.';
+$lang['text_express_plus']            = 'UPS Express Plus';
+$lang['text_today_standard']          = 'UPS Today Standard';
+$lang['text_today_dedicated_courier'] = 'UPS Today Dedicated Courier';
+$lang['text_today_intercity']         = 'UPS Today Intercity';
+$lang['text_today_express']           = 'UPS Today Express';
+$lang['text_today_express_saver']     = 'UPS Today Express Saver';
+
+// Entry
+$lang['entry_key']                    = 'Access Key';
+$lang['entry_username']               = 'Username';
+$lang['entry_password']               = 'Password';
+$lang['entry_pickup']                 = 'Pickup Method';
+$lang['entry_packaging']              = 'Packaging Type';
+$lang['entry_classification']         = 'Customer Classification Code';
+$lang['entry_origin']                 = 'Shipping Origin Code';
+$lang['entry_city']                   = 'Origin City';
+$lang['entry_state']                  = 'Origin State/Province';
+$lang['entry_country']                = 'Origin Country';
+$lang['entry_postcode']               = 'Origin Zip/Postal Code';
+$lang['entry_test']                   = 'Test Mode';
+$lang['entry_quote_type']             = 'Quote Type';
+$lang['entry_service']                = 'Services';
+$lang['entry_insurance']              = 'Enable Insurance';
+$lang['entry_display_weight']         = 'Display Delivery Weight';
+$lang['entry_weight_class']           = 'Weight Class';
+$lang['entry_length_class']           = 'Length Class';
+$lang['entry_dimension']			   = 'Dimensions (L x W x H)';
+$lang['entry_length']                 = 'Length';
+$lang['entry_height']                 = 'Height';
+$lang['entry_width']                  = 'Width';
+$lang['entry_tax_class']              = 'Tax Class';
+$lang['entry_geo_zone']               = 'Geo Zone';
+$lang['entry_status']                 = 'Status';
+$lang['entry_sort_order']             = 'Sort Order';
+$lang['entry_debug']      			   = 'Debug Mode';
+
+// Help
+$lang['help_key']                     = 'Enter the XML rates access key assigned to you by UPS.';
+$lang['help_username']                = 'Enter your UPS Services account username.';
+$lang['help_password']                = 'Enter your UPS Services account password.';
+$lang['help_pickup']                  = 'How do you give packages to UPS (only used when origin is US)?';
+$lang['help_packaging']               = 'What kind of packaging do you use?';
+$lang['help_classification']          = '01 - If you are billing to a UPS account and have a daily UPS pickup, 03 - If you do not have a UPS account or you are billing to a UPS account but do not have a daily pickup, 04 - If you are shipping from a retail outlet (only used when origin is US)';
+$lang['help_origin']                  = 'What origin point should be used (this setting affects only what UPS product names are shown to the user)';
+$lang['help_city']                    = 'Enter the name of the origin city.';
+$lang['help_state']                   = 'Enter the two-letter code for your origin state/province.';
+$lang['help_country']                 = 'Enter the two-letter code for your origin country.';
+$lang['help_postcode']                = 'Enter your origin zip/postalcode.';
+$lang['help_test']                    = 'Use this module in Test (YES) or Production mode (NO)?';
+$lang['help_quote_type']              = 'Quote for Residential or Commercial Delivery.';
+$lang['help_service']                 = 'Select the UPS services to be offered.';
+$lang['help_insurance']               = 'Enables insurance with product total as the value';
+$lang['help_display_weight']          = 'Do you want to display the shipping weight? (e.g. Delivery Weight : 2.7674 kg)';
+$lang['help_weight_class']            = 'Set to kilograms or pounds.';
+$lang['help_length_class']            = 'Set to centimeters or inches.';
+$lang['help_dimension']			   = 'This is assumed to be your average packing box size. Individual item dimensions are not supported at this time so you must enter average dimensions like 5x5x5.';
+$lang['help_debug']      			   = 'Saves send/recv data to the core log';
+
+// Error
+$lang['error_permission']             = 'Warning: You do not have permission to modify UPS (US) shipping!';
+$lang['error_key']                    = 'Access Key Required!';
+$lang['error_username']               = 'Username Required!';
+$lang['error_password']               = 'Password Required!';
+$lang['error_city']                   = 'Origin City!';
+$lang['error_state']                  = 'Origin State/Province Required!';
+$lang['error_country']                = 'Origin Country Required!';
+$lang['error_dimension']              = 'Average Dimensions Required!';

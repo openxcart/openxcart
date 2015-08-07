@@ -1,0 +1,25 @@
+<?php
+// Heading
+$lang['heading_title']    = 'Featured';
+
+// Text
+$lang['text_module']      = 'Modules';
+$lang['text_success']     = 'Success: You have modified featured module!';
+$lang['text_edit']        = 'Edit Featured Module';
+
+// Entry
+$lang['entry_name']       = 'Module Name';
+$lang['entry_product']    = 'Products';
+$lang['entry_limit']      = 'Limit';
+$lang['entry_width']      = 'Width';
+$lang['entry_height']     = 'Height';
+$lang['entry_status']     = 'Status';
+
+// Help
+$lang['help_product']     = '(Autocomplete)';
+
+// Error
+$lang['error_permission'] = 'Warning: You do not have permission to modify featured module!';
+$lang['error_name']       = 'Module Name must be between 3 and 64 characters!';
+$lang['error_width']      = 'Width required!';
+$lang['error_height']     = 'Height required!';

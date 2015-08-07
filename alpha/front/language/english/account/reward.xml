@@ -1,0 +1,14 @@
+<?php
+// Heading
+$lang['heading_title']      = 'Your Reward Points';
+
+// Column
+$lang['column_date_added']  = 'Date Added';
+$lang['column_description'] = 'Description';
+$lang['column_points']      = 'Points';
+
+// Text
+$lang['text_account']       = 'Account';
+$lang['text_reward']        = 'Reward Points';
+$lang['text_total']         = 'Your total number of reward points is:';
+$lang['text_empty']         = 'You do not have any reward points!';

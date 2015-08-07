@@ -1,0 +1,13 @@
+<?php
+// Heading
+$lang['heading_title'] = 'Use Gift Voucher';
+
+// Text
+$lang['text_success']  = 'Success: Your gift voucher discount has been applied!';
+
+// Entry
+$lang['entry_voucher'] = 'Enter your gift voucher code here';
+
+// Error
+$lang['error_voucher'] = 'Warning: Gift Voucher is either invalid or the balance has been used up!';
+$lang['error_empty']   = 'Warning: Please enter a voucher code!';

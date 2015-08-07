@@ -1,0 +1,15 @@
+<?php
+// Heading
+$lang['heading_title']    = 'Affiliate';
+
+// Text
+$lang['text_register']    = 'Register';
+$lang['text_login']       = 'Login';
+$lang['text_logout']      = 'Logout';
+$lang['text_forgotten']   = 'Forgotten Password';
+$lang['text_account']     = 'My Account';
+$lang['text_edit']        = 'Edit Account';
+$lang['text_password']    = 'Password';
+$lang['text_payment']     = 'Payment Options';
+$lang['text_tracking']    = 'Affiliate Tracking';
+$lang['text_transaction'] = 'Transactions';

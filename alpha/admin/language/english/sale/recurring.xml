@@ -1,0 +1,51 @@
+<?php
+// Heading
+$lang['heading_title']                        = 'Recurring Profiles';
+
+// Text
+$lang['text_success']                         = 'Success: You have modified recurring profiles!';
+$lang['text_list']                            = 'Recurring Profile List';
+$lang['text_add']                             = 'Add Recurring Profile';
+$lang['text_edit']                            = 'Edit Recurring Profile';
+$lang['text_payment_profiles']                = 'Recurring Profiles';
+$lang['text_status_active']                   = 'Active';
+$lang['text_status_inactive']                 = 'Inactive';
+$lang['text_status_cancelled']                = 'Cancelled';
+$lang['text_status_suspended']                = 'Suspended';
+$lang['text_status_expired']                  = 'Expired';
+$lang['text_status_pending']                  = 'Pending';
+$lang['text_transactions']                    = 'Transactions';
+$lang['text_cancel_confirm']                  = 'Profile\'s cancellation cannot be undone! Are you sure want to do this?';
+$lang['text_transaction_date_added']          = 'Date added';
+$lang['text_transaction_payment'] 			   = 'Payment';
+$lang['text_transaction_outstanding_payment'] = 'Outstanding payment';
+$lang['text_transaction_skipped']             = 'Payment skipped';
+$lang['text_transaction_failed']              = 'Payment failed';
+$lang['text_transaction_cancelled']           = 'Cancelled';
+$lang['text_transaction_suspended']           = 'Suspended';
+$lang['text_transaction_suspended_failed']    = 'Suspended from failed payment';
+$lang['text_transaction_outstanding_failed']  = 'Outstanding payment failed';
+$lang['text_transaction_expired']             = 'Expired';
+
+// Entry
+$lang['entry_cancel_payment']                 = 'Cancel Payment';
+$lang['entry_order_recurring']                = 'ID';
+$lang['entry_order_id']                       = 'Order ID';
+$lang['entry_reference']                      = 'Payment Reference';
+$lang['entry_customer']                       = 'Customer';
+$lang['entry_date_added']                     = 'Date Added';
+$lang['entry_status']                         = 'Status';
+$lang['entry_type']                           = 'Type';
+$lang['entry_action']                         = 'Action';
+$lang['entry_email']                          = 'Email';
+$lang['entry_description']                    = 'Recurring Profile\'s description';
+$lang['entry_product']                        = 'Product';
+$lang['entry_quantity']                       = 'Quantity';
+$lang['entry_amount']                         = 'Amount';
+$lang['entry_recurring']                      = 'Recurring Profile';
+$lang['entry_payment_method']                 = 'Payment Method';
+
+// Error / Success
+$lang['error_not_cancelled']                  = 'Error: %s';
+$lang['error_not_found']                      = 'Could not cancel recurring profile';
+$lang['text_cancelled']                    = 'Recurring payment has been cancelled';

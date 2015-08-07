@@ -1,0 +1,17 @@
+<?php
+// Heading
+$lang['heading_title']    = 'Site Map';
+
+// Text
+$lang['text_special']     = 'Special Offers';
+$lang['text_account']     = 'My Account';
+$lang['text_edit']        = 'Account Information';
+$lang['text_password']    = 'Password';
+$lang['text_address']     = 'Address Book';
+$lang['text_history']     = 'Order History';
+$lang['text_download']    = 'Downloads';
+$lang['text_cart']        = 'Shopping Cart';
+$lang['text_checkout']    = 'Checkout';
+$lang['text_search']      = 'Search';
+$lang['text_information'] = 'Information';
+$lang['text_contact']     = 'Contact Us';

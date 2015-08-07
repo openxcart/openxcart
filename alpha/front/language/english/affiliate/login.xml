@@ -1,0 +1,22 @@
+<?php
+// Heading
+$lang['heading_title']                 = 'Affiliate Program';
+
+// Text
+$lang['text_account']                  = 'Account';
+$lang['text_login']                    = 'Login';
+$lang['text_description']              = '<p>%s affiliate program is free and enables members to earn revenue by placing a link or links on their web site which advertises %s or specific products on it. Any sales made to customers who have clicked on those links will earn the affiliate commission. The standard commission rate is currently %s.</p><p>For more information, visit our FAQ page or see our Affiliate terms &amp; conditions.</p>';
+$lang['text_new_affiliate']            = 'New Affiliate';
+$lang['text_register_account']         = '<p>I am not currently an affiliate.</p><p>Click Continue below to create a new affiliate account. Please note that this is not connected in any way to your customer account.</p>';
+$lang['text_returning_affiliate']      = 'Affiliate Login';
+$lang['text_i_am_returning_affiliate'] = 'I am a returning affiliate.';
+$lang['text_forgotten']                = 'Forgotten Password';
+
+// Entry
+$lang['entry_email']                   = 'Affiliate E-Mail';
+$lang['entry_password']                = 'Password';
+
+// Error
+$lang['error_login']                   = 'Warning: No match for E-Mail Address and/or Password.';
+$lang['error_attempts']                = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
+$lang['error_approved']                = 'Warning: Your account requires approval before you can login.';

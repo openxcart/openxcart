@@ -1,0 +1,13 @@
+<?php
+// Heading
+$lang['heading_title'] = 'Use Coupon Code';
+
+// Text
+$lang['text_success']  = 'Success: Your coupon discount has been applied!';
+
+// Entry
+$lang['entry_coupon']  = 'Enter your coupon here';
+
+// Error
+$lang['error_coupon']  = 'Warning: Coupon is either invalid, expired or reached its usage limit!';
+$lang['error_empty']   = 'Warning: Please enter a coupon code!';

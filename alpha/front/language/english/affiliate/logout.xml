@@ -1,0 +1,8 @@
+<?php
+// Heading
+$lang['heading_title'] = 'Account Logout';
+
+// Text
+$lang['text_message']  = '<p>You have been logged off your Affiliate Account.</p>';
+$lang['text_account']  = 'Account';
+$lang['text_logout']   = 'Logout';

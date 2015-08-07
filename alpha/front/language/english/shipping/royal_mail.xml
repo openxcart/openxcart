@@ -1,0 +1,15 @@
+<?php
+// Text
+$lang['text_title']                        = 'Royal Mail';
+$lang['text_weight']                       = 'Weight:';
+$lang['text_insurance']                    = 'Insured upto:';
+$lang['text_special_delivery']             = 'Special Delivery Next Day';
+$lang['text_1st_class_signed']             = 'First Class Signed Post';
+$lang['text_2nd_class_signed']             = 'Second Class Signed Post';
+$lang['text_1st_class_standard']           = 'First Class Standard Post';
+$lang['text_2nd_class_standard']           = 'Second Class Standard Post';
+$lang['text_international_standard']       = 'International Standard';
+$lang['text_international_tracked_signed'] = 'International Tracked & Signed';
+$lang['text_international_tracked']        = 'International Tracked';
+$lang['text_international_signed']         = 'International Signed';
+$lang['text_international_economy']        = 'International Economy';

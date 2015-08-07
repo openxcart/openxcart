@@ -1,0 +1,7 @@
+<?php
+// Text
+$lang['text_items']     = '%s item(s) - %s';
+$lang['text_empty']     = 'Your shopping cart is empty!';
+$lang['text_cart']      = 'View Cart';
+$lang['text_checkout']  = 'Checkout';
+$lang['text_recurring'] = 'Payment Profile';

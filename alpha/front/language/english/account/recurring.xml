@@ -1,0 +1,52 @@
+<?php
+$lang['heading_title'] = 'Recurring Payments';
+$lang['button_continue'] = 'Continue';
+$lang['button_view'] = 'View';
+$lang['text_empty'] = 'No recurring payments found';
+$lang['text_product'] = 'Product: ';
+$lang['text_order'] = 'Order: ';
+$lang['text_quantity'] = 'Quantity: ';
+$lang['text_account'] = 'Account';
+$lang['text_action'] = 'Action';
+$lang['text_recurring'] = 'Recurring payment';
+$lang['text_transactions'] = 'Transactions';
+$lang['button_return'] = 'Return';
+$lang['text_empty_transactions'] = 'No transactions for this recurring profile';
+
+$lang['column_date_added'] = 'Created';
+$lang['column_type'] = 'Type';
+$lang['column_amount'] = 'Amount';
+$lang['column_status'] = 'Status';
+$lang['column_product'] = 'Product';
+$lang['column_action'] = 'Action';
+$lang['column_recurring_id'] = 'Profile ID';
+
+$lang['text_recurring_detail'] = 'Recurring payment details';
+$lang['text_recurring_id'] = 'Profile ID: ';
+$lang['text_payment_method'] = 'Payment method: ';
+$lang['text_date_added'] = 'Created: ';
+$lang['text_recurring_description'] = 'Description: ';
+$lang['text_status'] = 'Status: ';
+$lang['text_ref'] = 'Reference: ';
+
+$lang['text_status_active'] = 'Active';
+$lang['text_status_inactive'] = 'Inactive';
+$lang['text_status_cancelled'] = 'Cancelled';
+$lang['text_status_suspended'] = 'Suspended';
+$lang['text_status_expired'] = 'Expired';
+$lang['text_status_pending'] = 'Pending';
+
+$lang['text_transaction_date_added'] = 'Created';
+$lang['text_transaction_payment'] = 'Payment';
+$lang['text_transaction_outstanding_payment'] = 'Outstanding payment';
+$lang['text_transaction_skipped'] = 'Payment skipped';
+$lang['text_transaction_failed'] = 'Payment failed';
+$lang['text_transaction_cancelled'] = 'Cancelled';
+$lang['text_transaction_suspended'] = 'Suspended';
+$lang['text_transaction_suspended_failed'] = 'Suspended from failed payment';
+$lang['text_transaction_outstanding_failed'] = 'Outstanding payment failed';
+$lang['text_transaction_expired'] = 'Expired';
+
+$lang['error_not_cancelled'] = 'Error: %s';
+$lang['error_not_found'] = 'Could not cancel recurring';
+$lang['text_cancelled'] = 'Recurring payment has been cancelled';

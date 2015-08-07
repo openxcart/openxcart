@@ -1,0 +1,21 @@
+<?php
+// Heading
+$lang['heading_title'] = 'My Wish List';
+
+// Text
+$lang['text_account']  = 'Account';
+$lang['text_instock']  = 'In Stock';
+$lang['text_wishlist'] = 'Wish List (%s)';
+$lang['text_login']    = 'You must <a href="%s">login</a> or <a href="%s">create an account</a> to save <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
+$lang['text_success']  = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
+$lang['text_exists']   = '<a href="%s">%s</a> is already in your <a href="%s">wish list</a>!';
+$lang['text_remove']   = 'Success: You have modified your wish list!';
+$lang['text_empty']    = 'Your wish list is empty.';
+
+// Column
+$lang['column_image']  = 'Image';
+$lang['column_name']   = 'Product Name';
+$lang['column_model']  = 'Model';
+$lang['column_stock']  = 'Stock';
+$lang['column_price']  = 'Unit Price';
+$lang['column_action'] = 'Action';

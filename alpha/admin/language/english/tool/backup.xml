@@ -1,0 +1,17 @@
+<?php
+// Heading
+$lang['heading_title']    = 'Backup &amp; Restore';
+
+// Text
+$lang['text_backup']      = 'Download Backup';
+$lang['text_success']     = 'Success: You have successfully imported your database!';
+$lang['text_list']        = 'Upload List';
+
+// Entry
+$lang['entry_restore']    = 'Restore Backup';
+$lang['entry_backup']     = 'Backup';
+
+// Error
+$lang['error_permission'] = 'Warning: You do not have permission to modify backups!';
+$lang['error_backup']     = 'Warning: You must select at least one table to backup!';
+$lang['error_empty']      = 'Warning: The file you uploaded was empty!';

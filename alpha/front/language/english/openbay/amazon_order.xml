@@ -1,0 +1,10 @@
+<?php
+// Text
+$lang['text_paid_amazon'] 			= 'Paid on Amazon';
+$lang['text_total_shipping'] 		= 'Shipping';
+$lang['text_total_shipping_tax'] 	= 'Shipping tax';
+$lang['text_total_giftwrap'] 		= 'Gift wrap';
+$lang['text_total_giftwrap_tax'] 	= 'Gift wrap tax';
+$lang['text_total_sub'] 			= 'Sub-total';
+$lang['text_tax'] 					= 'Tax';
+$lang['text_total'] 				= 'Total';

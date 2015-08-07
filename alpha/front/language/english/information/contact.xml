@@ -1,0 +1,29 @@
+<?php
+// Heading
+$lang['heading_title']  = 'Contact Us';
+
+// Text
+$lang['text_location']  = 'Our Location';
+$lang['text_store']     = 'Our Stores';
+$lang['text_contact']   = 'Contact Form';
+$lang['text_address']   = 'Address';
+$lang['text_telephone'] = 'Telephone';
+$lang['text_fax']       = 'Fax';
+$lang['text_open']      = 'Opening Times';
+$lang['text_comment']   = 'Comments';
+$lang['text_success']   = '<p>Your enquiry has been successfully sent to the store owner!</p>';
+
+// Entry
+$lang['entry_name']     = 'Your Name';
+$lang['entry_email']    = 'E-Mail Address';
+$lang['entry_enquiry']  = 'Enquiry';
+$lang['entry_captcha']  = 'Enter the code in the box below';
+
+// Email
+$lang['email_subject']  = 'Enquiry %s';
+
+// Errors
+$lang['error_name']     = 'Name must be between 3 and 32 characters!';
+$lang['error_email']    = 'E-Mail Address does not appear to be valid!';
+$lang['error_enquiry']  = 'Enquiry must be between 10 and 3000 characters!';
+$lang['error_captcha']  = 'Verification code does not match the image!';

@@ -1,0 +1,8 @@
+<?php
+// Text
+$lang['text_upload']    = 'Your file was successfully uploaded!';
+
+// Error
+$lang['error_filename'] = 'Filename must be between 3 and 64 characters!';
+$lang['error_filetype'] = 'Invalid file type!';
+$lang['error_upload']   = 'Upload required!';

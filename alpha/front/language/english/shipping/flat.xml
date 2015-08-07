@@ -1,0 +1,4 @@
+<?php
+// Text
+$lang['text_title']       = 'Flat Rate';
+$lang['text_description'] = 'Flat Shipping Rate';

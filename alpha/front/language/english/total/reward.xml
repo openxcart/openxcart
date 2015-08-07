@@ -1,0 +1,4 @@
+<?php
+// Text
+$lang['text_reward']   = 'Reward Points (%s)';
+$lang['text_order_id'] = 'Order ID: #%s';

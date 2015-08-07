@@ -1,0 +1,6 @@
+<?php
+// Text
+$lang['text_title']    = 'Australia Post';
+$lang['text_express']  = 'Express';
+$lang['text_standard'] = 'Standard';
+$lang['text_eta']      = 'days';

@@ -1,0 +1,5 @@
+<?php
+// Text
+$lang['text_subject']  = '%s - New Password';
+$lang['text_greeting'] = 'A new password was requested from %s.';
+$lang['text_password'] = 'Your new password is:';

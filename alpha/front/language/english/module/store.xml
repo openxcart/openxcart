@@ -1,0 +1,7 @@
+<?php
+// Heading
+$lang['heading_title'] = 'Choose a Store';
+
+// Text
+$lang['text_default']  = 'Default';
+$lang['text_store']    = 'Please choose the store you wish to visit.';

@@ -1,0 +1,6 @@
+<?php
+// Heading
+$lang['heading_title'] = 'Bestsellers';
+
+// Text
+$lang['text_tax']      = 'Ex Tax:';

@@ -1,0 +1,7 @@
+<?php
+// Heading
+$lang['heading_title']	  = 'OpenBay Pro';
+
+// Text
+$lang['text_module']    = 'Modules';
+$lang['text_installed'] = 'OpenBay Pro module is now installed. It is available under Extensions -> OpenBay Pro';

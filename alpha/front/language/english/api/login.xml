@@ -1,0 +1,6 @@
+<?php
+// Text
+$lang['text_success'] = 'Success: API session successfully started!';
+
+// Error
+$lang['error_login']  = 'Warning: No match for Username and/or Password.';

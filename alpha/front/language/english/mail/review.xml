@@ -1,0 +1,8 @@
+<?php
+// Text
+$lang['text_subject']	= '%s - Product Review';
+$lang['text_waiting']	= 'You have a new product review waiting.';
+$lang['text_product']	= 'Product: %s';
+$lang['text_reviewer']	= 'Reviewer: %s';
+$lang['text_rating']	= 'Rating: %s';
+$lang['text_review']	= 'Review Text:';

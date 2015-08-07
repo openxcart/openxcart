@@ -1,0 +1,4 @@
+<?php
+// Text
+$lang['text_title']  = 'Citylink';
+$lang['text_weight'] = 'Weight:';

@@ -1,0 +1,30 @@
+<?php
+// Heading
+$lang['heading_title']				= 'Login and Pay with Amazon';
+$lang['heading_address']			= 'Please choose a delivery address';
+$lang['heading_payment']			= 'Please select a payment method';
+$lang['heading_confirm']			= 'Order summary';
+
+// Text
+$lang['text_back']					= 'Back';
+$lang['text_cart']					= 'Cart';
+$lang['text_confirm']				= 'Confirm';
+$lang['text_continue']				= 'Continue';
+$lang['text_lpa']					= 'Login and Pay with Amazon';
+$lang['text_enter_coupon']			= 'Enter your coupon code here. If you don\'t have one, leave it empty.';
+$lang['text_coupon']				= 'Coupon';
+$lang['text_tax_other']			= 'Taxes / Other handling fees';
+$lang['text_success_title']		= 'Your order has been placed!';
+$lang['text_payment_success']		= 'Your order was successfully placed. Order details are below';
+
+// Error
+$lang['error_payment_method']		= 'Please select a payment method';
+$lang['error_shipping']			= 'Please select a shipping method';
+$lang['error_shipping_address']	= 'Please select a delivery address';
+$lang['error_shipping_methods']	= 'There was an error retrieving your address from Amazon. Please contact the shop administrator for help.';
+$lang['error_no_shipping_methods'] = 'There are no shipping options to the selected address. Please select a different shipping address.';
+$lang['error_process_order']		= 'There was an error processing your order. Please contact the shop administrator for help.';
+$lang['error_login']				= 'Login failed';
+$lang['error_login_email']			= 'Login failed: %s account email address did not match Amazon account email address';
+$lang['error_minimum']             = 'Minimum order amount for Login and Pay with Amazon is %s!';
+

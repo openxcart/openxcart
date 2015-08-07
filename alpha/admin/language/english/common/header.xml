@@ -1,0 +1,23 @@
+<?php
+// Heading
+$lang['heading_title']        = 'OpenCart';
+
+// Text
+$lang['text_order']           = 'Orders';
+$lang['text_order_status']    = 'Pending';
+$lang['text_complete_status'] = 'Completed';
+$lang['text_customer']        = 'Customers';
+$lang['text_online']          = 'Customers Online';
+$lang['text_approval']        = 'Pending approval';
+$lang['text_product']         = 'Products';
+$lang['text_stock']           = 'Out of stock';
+$lang['text_review']          = 'Reviews';
+$lang['text_return']          = 'Returns';
+$lang['text_affiliate']       = 'Affiliates';
+$lang['text_store']           = 'Stores';
+$lang['text_front']           = 'Store Front';
+$lang['text_help']            = 'Help';
+$lang['text_homepage']        = 'Homepage';
+$lang['text_support']         = 'Support Forum';
+$lang['text_documentation']   = 'Documentation';
+$lang['text_logout']          = 'Logout';

@@ -1,0 +1,6 @@
+<?php
+// Heading
+$lang['heading_title'] = 'The page you requested cannot be found!';
+
+// Text
+$lang['text_error']    = 'The page you requested cannot be found.';

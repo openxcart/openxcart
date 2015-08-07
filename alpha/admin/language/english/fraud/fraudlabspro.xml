@@ -1,0 +1,80 @@
+<?php
+// Heading
+$lang['heading_title']                           = 'FraudLabs Pro';
+
+// Text
+$lang['text_fraud']                              = 'Anti-Fraud';
+$lang['text_success']                            = 'Success: You have modified FraudLabs Pro!';
+$lang['text_edit']                               = 'Settings';
+$lang['text_signup']                             = 'FraudLabsPro is a fraud detection service. If you don\'t have a API key you can <a href="http://www.fraudlabspro.com/plan?ref=1730" target="_blank"><u>sign up here</u></a>.';
+$lang['text_id']                                 = 'FraudLabs Pro ID';
+$lang['text_ip_address']                         = 'IP Address';
+$lang['text_ip_net_speed']                       = 'IP Net Speed';
+$lang['text_ip_isp_name']                        = 'IP ISP Name';
+$lang['text_ip_usage_type']                      = 'IP Usage Type';
+$lang['text_ip_domain']                          = 'IP Domain';
+$lang['text_ip_time_zone']                       = 'IP Time Zone';
+$lang['text_ip_location']                        = 'IP Location';
+$lang['text_ip_distance']                        = 'IP Distance';
+$lang['text_ip_latitude']                        = 'IP Latitude';
+$lang['text_ip_longitude']                       = 'IP Longitude';
+$lang['text_risk_country']                       = 'High Risk Country';
+$lang['text_free_email']                         = 'Free Email';
+$lang['text_ship_forward']                       = 'Ship Forward';
+$lang['text_using_proxy']                        = 'Using Proxy';
+$lang['text_bin_found']                          = 'BIN Found';
+$lang['text_email_blacklist']                    = 'Email Blacklist';
+$lang['text_credit_card_blacklist']              = 'Credit Card Blacklist';
+$lang['text_score']                              = 'FraudLabsPro Score';
+$lang['text_status']                             = 'FraudLabs Pro Status';
+$lang['text_message']                            = 'Message';
+$lang['text_transaction_id']                     = 'Transaction ID';
+$lang['text_credits']                     		  = 'Balance';
+$lang['text_error']                              = 'Error:';
+$lang['text_flp_upgrade']                        = '<a href="http://www.fraudlabspro.com/plan" target="_blank">[Upgrade]</a>';
+$lang['text_flp_merchant_area']                  = 'Please login to <a href="http://www.fraudlabspro.com/login" target="_blank">FraudLabs Pro Merchant Area</a> for more information about this order.';
+
+
+// Entry
+$lang['entry_status']                            = 'Status';
+$lang['entry_key']                               = 'API Key';
+$lang['entry_score']                             = 'Risk Score';
+$lang['entry_order_status']                      = 'Order Status';
+$lang['entry_review_status']                     = 'Review Status';
+$lang['entry_approve_status']                    = 'Approve Status';
+$lang['entry_reject_status']                     = 'Reject Status';
+$lang['entry_simulate_ip']                       = 'Simulate IP';
+
+// Help
+$lang['help_order_status']                       = 'Orders that have a score over your set risk score will be assigned this order status and will not be allowed to reach the complete status automatically.';
+$lang['help_review_status']                      = 'Orders that marked as review by FraudLabs Pro will be assigned this order status.';
+$lang['help_approve_status']                     = 'Orders that marked as approve by FraudLabs Pro will be assigned this order status.';
+$lang['help_reject_status']                      = 'Orders that marked as reject by FraudLabs Pro will be assigned this order status.';
+$lang['help_simulate_ip']                        = 'Simulate the visitor IP address for testing. Leave blank for production run.';
+$lang['help_fraudlabspro_id']                    = 'Unique identifier to identify a transaction screened by FraudLabs Pro system.';
+$lang['help_ip_address']                         = 'IP Address.';
+$lang['help_ip_net_speed']                       = 'Connection speed.';
+$lang['help_ip_isp_name']                        = 'Estimated ISP of the IP address.';
+$lang['help_ip_usage_type']                      = 'Estimated usage type of the IP address. E.g, ISP, Commercial, Residential.';
+$lang['help_ip_domain']                          = 'Estimated domain name of the IP address.';
+$lang['help_ip_time_zone']                       = 'Estimated time zone of the IP address.';
+$lang['help_ip_location']                        = 'Estimated location of the IP address.';
+$lang['help_ip_distance']                        = 'Distance from IP address to Billing Location.';
+$lang['help_ip_latitude']                        = 'Estimated latitude of the IP address.';
+$lang['help_ip_longitude']                       = 'Estimated longitude of the IP address.';
+$lang['help_risk_country']                       = 'Whether IP address or billing address country is in the latest high risk list.';
+$lang['help_free_email']                         = 'Whether e-mail is from free e-mail provider.';
+$lang['help_ship_forward']                       = 'Whether shipping address is in database of known mail drops.';
+$lang['help_using_proxy']                        = 'Whether IP address is from Anonymous Proxy Server.';
+$lang['help_bin_found']                          = 'Whether the BIN information matches our BIN list.';
+$lang['help_email_blacklist']                    = 'Whether the email address is in our blacklist database.';
+$lang['help_credit_card_blacklist']              = 'Whether the credit card is in our blacklist database.';
+$lang['help_score']                              = 'Risk score, 0 (low risk) - 100 (high risk).';
+$lang['help_status']                             = 'FraudLabs Pro status.';
+$lang['help_message']                            = 'FraudLabs Pro error message description.';
+$lang['help_transaction_id']                     = 'Click the link to view the details fraud analysis.';
+$lang['help_credits']                            = 'Balance of queries in your account after this transaction.';
+
+// Error
+$lang['error_permission']                        = 'Warning: You do not have permission to modify FraudLabs Pro settings!';
+$lang['error_key']		                          = 'License Key Required!';

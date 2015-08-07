@@ -1,0 +1,19 @@
+<?php
+// Heading
+$lang['heading_title']    = 'Google Hangouts';
+
+// Text
+$lang['text_module']      = 'Modules';
+$lang['text_success']     = 'Success: You have modified Google Hangouts module!';
+$lang['text_edit']        = 'Edit Google Hangouts Module';
+
+// Entry
+$lang['entry_code']       = 'Google Talk Code';
+$lang['entry_status']     = 'Status';
+
+// Help
+$lang['help_code']        = 'Goto <a href="https://developers.google.com/+/hangouts/button" target="_blank">Create a Google Hangout chatback badge</a> and copy &amp; paste the generated code into the text box.';
+
+// Error
+$lang['error_permission'] = 'Warning: You do not have permission to modify Google Hangouts module!';
+$lang['error_code']       = 'Code Required';

@@ -1,0 +1,116 @@
+<?php
+// Heading
+$lang['heading_title']        				= 'OpenBay Pro';
+
+// Buttons
+$lang['button_retry']						= 'Retry';
+$lang['button_update']						= 'Update';
+$lang['button_patch']						= 'Patch';
+$lang['button_ftp_test']					= 'Test connection';
+$lang['button_faq']						= 'View FAQ topic';
+
+// Tab
+$lang['tab_setting']						= 'Settings';
+$lang['tab_update']						= 'Software updates';
+$lang['tab_update_v1']						= 'Easy updater';
+$lang['tab_update_v2']						= 'Legacy updater';
+$lang['tab_patch']							= 'Patch';
+$lang['tab_developer']						= 'Developer';
+
+// Text
+$lang['text_dashboard']         			= 'Dashboard';
+$lang['text_success']         				= 'Success: Settings have been saved';
+$lang['text_products']          			= 'Items';
+$lang['text_orders']          				= 'Orders';
+$lang['text_manage']          				= 'Manage';
+$lang['text_help']                     	= 'Help';
+$lang['text_tutorials']                    = 'Tutorials';
+$lang['text_suggestions']                  = 'Ideas';
+$lang['text_version_latest']               = 'You are running the latest version';
+$lang['text_version_check']     			= 'Checking software version';
+$lang['text_version_installed']    		= 'Installed version of OpenBay Pro: v';
+$lang['text_version_current']        		= 'Your version is';
+$lang['text_version_available']        	= 'the latest is';
+$lang['text_language']             		= 'API response language';
+$lang['text_getting_messages']     		= 'Getting OpenBay Pro messages';
+$lang['text_complete']     				= 'Complete';
+$lang['text_test_connection']              = 'Test FTP connection';
+$lang['text_run_update']           		= 'Run update';
+$lang['text_patch_complete']           	= 'Patch has been applied';
+$lang['text_connection_ok']				= 'Connected to server OK. OpenCart folders found';
+$lang['text_updated']						= 'Module has been updated (v.%s)';
+$lang['text_update_description']			= 'The update tool will make changes to your shop file system. Make sure you have a complete file and database backup before updating.';
+$lang['text_patch_description']			= 'If you uploaded the update files manually, you need to run the patch to complete the update';
+$lang['text_clear_faq']                    = 'Clear hidden FAQ popups';
+$lang['text_clear_faq_complete']           = 'Notifications will now show again';
+$lang['text_install_success']              = 'Marketplace has been installed';
+$lang['text_uninstall_success']            = 'Marketplace has been removed';
+$lang['text_title_messages']               = 'Messages &amp; notifications';
+$lang['text_marketplace_shipped']			= 'The order status will be updated to shipped on the marketplace';
+$lang['text_action_warning']				= 'This action is dangerous so is password protected.';
+$lang['text_check_new']					= 'Checking for newer version';
+$lang['text_downloading']					= 'Downloading update files';
+$lang['text_extracting']					= 'Extracting files';
+$lang['text_running_patch']				= 'Running patch files';
+$lang['text_fail_patch']					= 'Unable to extract update files';
+$lang['text_updated_ok']					= 'Update complete, installed version is now ';
+$lang['text_check_server']					= 'Checking server requirements';
+$lang['text_version_ok']					= 'Software is already up to date, installed version is ';
+$lang['text_remove_files']					= 'Removing files no longer required';
+$lang['text_confirm_backup']				= 'Ensure that you have a full backup before continuing';
+
+// Column
+$lang['column_name']          				= 'Plugin name';
+$lang['column_status']        				= 'Status';
+$lang['column_action']        				= 'Action';
+
+// Entry
+$lang['entry_patch']            			= 'Manual update patch';
+$lang['entry_ftp_username']				= 'FTP Username';
+$lang['entry_ftp_password']				= 'FTP Password';
+$lang['entry_ftp_server']					= 'FTP server address';
+$lang['entry_ftp_root']					= 'FTP path on server';
+$lang['entry_ftp_admin']            		= 'Admin directory';
+$lang['entry_ftp_pasv']                    = 'PASV mode';
+$lang['entry_ftp_beta']             		= 'Use beta version';
+$lang['entry_courier']						= 'Courier';
+$lang['entry_courier_other']           	= 'Other courier';
+$lang['entry_tracking']                	= 'Tracking #';
+$lang['entry_empty_data']					= 'Empty store data?';
+$lang['entry_password_prompt']				= 'Please enter the data wipe password';
+$lang['entry_update']						= 'Easy 1 click update';
+
+// Error
+$lang['error_username']             		= 'FTP username required';
+$lang['error_password']             		= 'FTP password required';
+$lang['error_server']               		= 'FTP server required';
+$lang['error_admin']             			= 'Admin directory expected';
+$lang['error_no_admin']					= 'Connection OK but your OpenCart admin directory was not found';
+$lang['error_no_files']					= 'Connection OK but OpenCart folders were not found! Is your root path correct?';
+$lang['error_ftp_login']					= 'Could not login with that user';
+$lang['error_ftp_connect']					= 'Could not connect to server';
+$lang['error_failed']						= 'Failed to load, retry?';
+$lang['error_tracking_id_format']			= 'Your tracking ID cannot contain the characters > or <';
+$lang['error_tracking_courier']			= 'You must select a courier if you want to add a tracking ID';
+$lang['error_tracking_custom']				= 'Please leave courier field empty if you want to use custom courier';
+$lang['error_permission']					= 'You do not have permission to modify the OpenBay Pro extension';
+$lang['error_mkdir']						= 'PHP mkdir function is disabled, contact your host';
+$lang['error_file_delete']					= 'Unable to remove these files, you should delete them manually';
+$lang['error_mcrypt']            			= 'PHP function "mcrypt_encrypt" is not enabled. Contact your hosting provider.';
+$lang['error_mbstring']               		= 'PHP library "mb strings" is not enabled. Contact your hosting provider.';
+$lang['error_ftpconnect']             		= 'PHP FTP functions are not enabled. Contact your hosting provider.';
+$lang['error_oc_version']             		= 'Your version of OpenCart is not tested to work with this module. You may experience problems.';
+$lang['error_fopen']             			= 'PHP function "fopen" is disabled by your host - you will be unable to import images when importing products';
+
+// Help
+$lang['help_ftp_username']           		= 'Use the FTP username from your host';
+$lang['help_ftp_password']           		= 'Use the FTP password from your host';
+$lang['help_ftp_server']      				= 'IP address or domain name for your FTP server';
+$lang['help_ftp_root']           			= '(No trailing slash e.g. httpdocs/www)';
+$lang['help_ftp_admin']               		= 'If you have changed your admin directory update it to the new location';
+$lang['help_ftp_pasv']                    	= 'Change your FTP connection to passive mode';
+$lang['help_ftp_beta']             		= 'Caution! The beta version may not work correctly';
+$lang['help_clear_faq']					= 'Show all of the help notifications again';
+$lang['help_empty_data']					= 'This can cause serious damage, do not use it if you do not know what it does!';
+$lang['help_easy_update']					= 'Click update to install the latest version of OpenBay Pro automatically';
+$lang['help_patch']						= 'Click to run the patch scripts';

@@ -1,0 +1,4 @@
+<?php
+// Text
+$lang['text_title']       = 'Free Shipping';
+$lang['text_description'] = 'Free Shipping';

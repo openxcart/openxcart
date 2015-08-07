@@ -1,0 +1,4 @@
+<?php
+// Text
+$lang['text_title']       = 'Per Item';
+$lang['text_description'] = 'Per Item Shipping Rate';

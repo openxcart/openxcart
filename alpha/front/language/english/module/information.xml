@@ -1,0 +1,7 @@
+<?php
+// Heading
+$lang['heading_title'] = 'Information';
+
+// Text
+$lang['text_contact']  = 'Contact Us';
+$lang['text_sitemap']  = 'Site Map';

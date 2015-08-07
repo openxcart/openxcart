@@ -1,0 +1,7 @@
+<?php
+// Text
+$lang['text_title']       = 'Parcelforce 48';
+$lang['text_description'] = 'Parcelforce 48';
+$lang['text_weight']      = 'Weight:';
+$lang['text_insurance']   = 'Insured upto:';
+$lang['text_time']        = 'Estimated Time: Within 48 Hours';

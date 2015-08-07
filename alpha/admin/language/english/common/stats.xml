@@ -1,0 +1,4 @@
+<?php
+$lang['text_complete_status']   = 'Orders Completed'; 
+$lang['text_processing_status'] = 'Orders Processing'; 
+$lang['text_other_status']      = 'Other Statuses'; 

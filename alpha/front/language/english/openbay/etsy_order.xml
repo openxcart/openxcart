@@ -1,0 +1,7 @@
+<?php
+// Text
+$lang['text_total_shipping']		= 'Shipping';
+$lang['text_total_discount']		= 'Discount';
+$lang['text_total_tax']			= 'Tax';
+$lang['text_total_sub']			= 'Sub-total';
+$lang['text_total']				= 'Total';
